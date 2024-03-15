@@ -1,2 +1,4 @@
 /venv
-*.docx
+/Udacity/deep-learning-v2-pytorch-master
+/Project1/*.docx
+/Project1/*.zip
