@@ -3,3 +3,7 @@
 /Project1/*.docx
 /Project1/*.zip
 /Udacity
+*/data
+*.zip
+*.docx
+Cat_Dog_data_reduceds
